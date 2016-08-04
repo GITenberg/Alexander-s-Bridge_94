@@ -1,0 +1,43 @@
+_repo: Alexander-s-Bridge_94
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Cather, Willa Sibert
+    - Catherová, Willa
+    - Catherova, Willa
+    - Cather, Wilella
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
+description: "Alexander's Bridge is the first novel by American author Willa Cather.\
+  \ First published in 1912, it was re-released with an author's preface in 1922.\
+  \ It also ran as a serial in McClure's, giving Cather some free time from her work\
+  \ for that magazine.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '94'
+  wikidata: Q4718102
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Civil engineers -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Bridges -- Design and construction -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mistresses -- Fiction'
+- !lcsh 'Boston (Mass.) -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+tableOfContents: Alexander's bridge / Willa Cather -- The barrel organ / Alfred Noyes.
+title: Alexander's Bridge
+url: http://www.gutenberg.org/ebooks/94
+wikipedia:
+- https://en.wikipedia.org/wiki/Alexander%27s_Bridge
