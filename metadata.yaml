@@ -1,5 +1,8 @@
 _repo: Alexander-s-Bridge_94
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cather, Willa
@@ -17,6 +20,8 @@ description: "Alexander's Bridge is the first novel by American author Willa Cat
   \ First published in 1912, it was re-released with an author's preface in 1922.\
   \ It also ran as a serial in McClure's, giving Cather some free time from her work\
   \ for that magazine.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/94#Alexander-s-Bridge
 gutenberg_issued: '2006-03-08'
 gutenberg_type: Text
 identifiers:
